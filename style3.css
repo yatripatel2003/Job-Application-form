@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.mainheader{
+    background-color: #FFD700;
+    margin-bottom:20px;
+    
+    margin-left:30px;
+    margin-right:30px;
+    margin-top:140px;
+}
+.mainheader h1{
+    background-color: #FFD700;
+    margin-bottom:20px;
+    text-align:center;
+    margin-left:30px;
+    margin-right:30px;
+    margin-top:60px;
+}
+.re{
+    background-color:  rgb(135, 149, 176);
+    margin-bottom:20px;
+    text-align:center;
+    margin-left:30px;
+    margin-right:30px;
+}
+button{
+    align-items:center;
+    font-size:20px;
+    margin-left:490px;
+    border-radius:20px;
+
+}
+button .btn{
+    border-radius:20px;
+    font-size:22px;
+    align-items:center;
+    text-align:center;
+   
+}
